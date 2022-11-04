@@ -1,4 +1,4 @@
-package com.example.realestatemanager00.ui.theme
+package com.polishedgames.realestatemanager.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

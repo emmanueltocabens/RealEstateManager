@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "RealEstateManager00"
+rootProject.name = "RealEstateManager"
 include ':app'
