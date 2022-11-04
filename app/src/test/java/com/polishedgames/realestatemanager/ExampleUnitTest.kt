@@ -1,4 +1,4 @@
-package com.example.realestatemanager00
+package com.polishedgames.realestatemanager
 
 import org.junit.Test
 
